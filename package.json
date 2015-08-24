@@ -1,0 +1,25 @@
+{
+  "name": "build-tool-testbed",
+  "private": true,
+  "version": "0.0.1",
+  "description": "",
+  "main": "app/app.js",
+  "dependencies": {
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "broccoli": "^0.16.7",
+    "broccoli-concat": "^0.0.13",
+    "broccoli-fast-browserify": "^0.2.8",
+    "broccoli-merge-trees": "^0.2.3",
+    "broccoli-react-caching": "^0.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+  ],
+  "author": "Claudius Coenen",
+  "license": "MIT"
+}
