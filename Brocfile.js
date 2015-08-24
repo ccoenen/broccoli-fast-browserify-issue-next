@@ -29,4 +29,4 @@ var appFb = fastBrowserify(appJs, {
   }
 });
 
-module.exports = appJs;
+module.exports = appFb;
